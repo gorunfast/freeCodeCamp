@@ -66,7 +66,7 @@ We are excited to help you contribute to any of the topics that you would like t
 
 Thanks in advance for being polite and patient. Remember – this community is run mainly by volunteers.
 
-### Additional Assistance
+### Additional Assistances
 
 If you have queries about the stack, architecture of the codebase, translations, or anything else feel free to reach out to our staff.
 
