@@ -1,0 +1,15 @@
+"scope: docs":
+  - docs/*
+  - docs/**/*
+
+"scope: curriculum":
+  - curriculum/challenges/*/**
+
+"scope: web":
+  - client/*/**
+
+"scope: tools/scripts":
+  - cypress/*/**
+  - tools/*/**
+  - .github/*/**
+
