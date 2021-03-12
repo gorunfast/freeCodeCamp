@@ -1,15 +1,22 @@
 "scope: docs":
-  - docs/*
   - docs/**/*
 
 "scope: curriculum":
-  - curriculum/challenges/*/**
+  - curriculum/challenges/**/*
 
-"scope: web":
-  - client/*/**
+"platform: client":
+  - client/**/*
+
+"platform: api":
+  - api-server/**/*
 
 "scope: tools/scripts":
-  - cypress/*/**
-  - tools/*/**
-  - .github/*/**
+  - cypress/**/*
+  - tools/**/*
+  - .github/**/*
+  - utils/**/*
 
+"scope: i18n":
+  - any: ['curriculum/challenges/**/*', '!curriculum/challenges/english/**/*']
+  - docs/i18n/**/*
+  - any: ['client/i18n/**/*', '!client/i18n/locales/english/**/*']
