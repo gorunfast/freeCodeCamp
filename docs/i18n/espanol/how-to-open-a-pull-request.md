@@ -14,7 +14,7 @@ Recomendamos usar [titulos y mensajes convencionales](https://www.conventionalco
 > 
 > `fix(learn): tests for the do...while loop challenge`
 
-Al abrir una Pull Request(PR), puedes utilizar la siguiente guía para determinar el tipo, ámbito (opcional) y descripción de la PR.
+Als abrir una Pull Request(PR), puedes utilizar la siguiente guía para determinar el tipo, ámbito (opcional) y descripción de la PR.
 
 **Tipo:**
 
